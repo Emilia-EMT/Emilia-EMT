@@ -15,7 +15,8 @@
 ```json
 {
   "contacts": {
-    "Telegram": ["t.me/BuChuanPangCi"]
+    "Telegram": ["https://t.me/BuChuanPangCi"]
+    "𝕏": ["https://twitter.com/ooocococ"]
   },
   "fundings": {
     "TON": "UQD192YeMtEiCWT3kp7LUMwleiWY9lyNi4OawgCCXdQdDSBY"
