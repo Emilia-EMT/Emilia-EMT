@@ -1,7 +1,9 @@
 ### 私の名前はエミリア。ただのエミリアよ。
 <p>
   <div align=center>
-    <img src="https://github-widgetbox.vercel.app/api/profile?username=Emilia-EMT&data=followers,repositories,stars,commits">
+    <a href="https://github.com/Emilia-EMT">
+      <img src="https://github-widgetbox.vercel.app/api/profile?username=Emilia-EMT&data=followers,repositories,stars,commits">
+    </a>
   </div>
 </p>
 
