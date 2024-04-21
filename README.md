@@ -1,7 +1,17 @@
+<p align="center">
+ <img width="150px" src="https://avatars.githubusercontent.com/u/85098155?v=4" align="center" alt="Avator" style="border-radius: 50%;" />
+ <h2 align="center">
+   <a href="https://github.com/Emilia-EMT">
+     Emilia
+   </a>
+ </h2>
+</p>
+
 ### 私の名前はエミリア。ただのエミリアよ。
+
 <p>
   <div align=center>
-    <a href="https://github.com/Emilia-EMT">
+    <a href="https://github.com/Jurredr/github-widgetbox">
       <img src="https://github-widgetbox.vercel.app/api/profile?username=Emilia-EMT&data=followers,repositories,stars,commits">
     </a>
   </div>
@@ -10,7 +20,9 @@
 ### 谢谢你来看我
 
 <p>
-    <img src="https://moe-counter.glitch.me/get/@Emilia-EMT?theme=moebooru">
+  <a href="https://github.com/journey-ad/Moe-Counter/">
+    <img src="https://moe-counter.glitch.me/get/@Emilia-EMT?theme=gelbooru">
+  </a>
 </p>
 
 ### Hi there 👋
