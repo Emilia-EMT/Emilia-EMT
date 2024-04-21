@@ -25,14 +25,17 @@
 ```
 
 #### Platform & Tools
-[![](https://img.shields.io/badge/Windows-11-4e9eee?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-11/)
-[![](https://img.shields.io/badge/Ubuntu-22.04-4e9eee?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://releases.ubuntu.com/22.04/)
+[![](https://img.shields.io/badge/Windows-11-00A3EE?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-11/)
+[![](https://img.shields.io/badge/Ubuntu-22.04-E95420?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://releases.ubuntu.com/22.04/)
 
-[![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
+[![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-3e45e7?style=flat-square&logo=IntelliJ-IDEA&logoColor=ffffff)](https://www.jetbrains.com/idea/)
+[![](https://img.shields.io/badge/IDE-Android%20Studio-34a853?style=flat-square&logo=android-studio&logoColor=ffffff)](https://developer.android.com/studio)
 
-[![](https://img.shields.io/badge/-Python-33AADD?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
-[![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
+[![](https://img.shields.io/badge/Github%20Desktop-6e5494?style=flat-square&logo=github&logoColor=ffffff)](https://desktop.github.com/)
+[![](https://img.shields.io/badge/-Python-4584b6?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
+[![](https://img.shields.io/badge/-Docker-0db7ed?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
+[![](https://img.shields.io/badge/blender-EA7600?style=flat-square&logo=blender&logoColor=ffffff)](https://www.blender.org/)
 
 Github Stats|Top Langs
 -|-
