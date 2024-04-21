@@ -1,5 +1,5 @@
 <p align="center">
- <img width="150px" src="https://avatars.githubusercontent.com/u/85098155?v=4" align="center" alt="Avator" style="border-radius: 50%;" />
+ <img width="150px" src="https://github.com/Emilia-EMT/Emilia-EMT/blob/main/85098155-modified.png?raw=true" align="center"/>
  <h2 align="center">
    <a href="https://github.com/Emilia-EMT">
      Emilia
