@@ -29,8 +29,11 @@
 ```json
 {
   "contacts": {
-    "Telegram": ["https://t.me/BuChuanPangCi"]
-    "𝕏": ["https://twitter.com/ooocococ"]
+    "Telegram": ["https://t.me/BuChuanPangCi"],
+    "𝕏": ["https://x.com/ooocococ"]
+  },
+  "GPG_Public_Key": {
+    "Emilia-EMT.gpg": "https://www.github.com/Emilia-EMT.gpg"
   },
   "fundings": {
     "TON": "UQD192YeMtEiCWT3kp7LUMwleiWY9lyNi4OawgCCXdQdDSBY"
@@ -41,6 +44,7 @@
 #### Platform & Tools
 [![](https://img.shields.io/badge/Windows-11-00A3EE?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-11/)
 [![](https://img.shields.io/badge/Ubuntu-22.04-E95420?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://releases.ubuntu.com/22.04/)
+[![](https://img.shields.io/badge/Android-14-32DE84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/intl/en/android-14/)
 
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-3e45e7?style=flat-square&logo=IntelliJ-IDEA&logoColor=ffffff)](https://www.jetbrains.com/idea/)
