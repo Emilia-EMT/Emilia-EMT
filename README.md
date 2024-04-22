@@ -51,6 +51,9 @@
 [![](https://img.shields.io/badge/-Docker-0db7ed?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 [![](https://img.shields.io/badge/blender-EA7600?style=flat-square&logo=blender&logoColor=ffffff)](https://www.blender.org/)
 
+[![](https://img.shields.io/badge/Google%20Chrome-4C8BF5?style=flat-square&logo=google-chrome&logoColor=ffffff)](https://www.google.com/intl/en/chrome/)
+[![](https://img.shields.io/badge/Microsoft%20Edge-0078D7?style=flat-square&logo=Microsoft-edge&logoColor=ffffff)](https://www.microsoft.com/en-us/edge/download/)
+
 Github Stats|Top Langs
 -|-
 [![info](https://github-readme-stats.vercel.app/api?username=Emilia-EMT&count_private=true&show_icons=true&line_height=20)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emilia-EMT&layout=compact&langs_count=8&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
