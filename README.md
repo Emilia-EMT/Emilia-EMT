@@ -1,11 +1,4 @@
-<p align="center">
- <img width="150px" src="https://github.com/Emilia-EMT/Emilia-EMT/blob/main/85098155-modified.png?raw=true" align="center"/>
- <h2 align="center">
-   <a href="https://github.com/Emilia-EMT">
-     Emilia
-   </a>
- </h2>
-</p>
+
 
 ### 私の名前はエミリア。ただのエミリアよ。
 
@@ -25,21 +18,6 @@
   </a>
 </p>
 
-### Hi there 👋
-```json
-{
-  "contacts": {
-    "Telegram": ["https://t.me/BuChuanPangCi"],
-    "𝕏": ["https://x.com/ooocococ"]
-  },
-  "GPG_Public_Key": {
-    "Emilia-EMT.gpg": "https://www.github.com/Emilia-EMT.gpg"
-  },
-  "fundings": {
-    "TON": "UQD192YeMtEiCWT3kp7LUMwleiWY9lyNi4OawgCCXdQdDSBY"
-  }
-}
-```
 
 #### Platform & Tools
 [![](https://img.shields.io/badge/Windows-11-00A3EE?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-11/)
@@ -54,8 +32,6 @@
 [![](https://img.shields.io/badge/-Python-4584b6?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 [![](https://img.shields.io/badge/-Docker-0db7ed?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 [![](https://img.shields.io/badge/blender-EA7600?style=flat-square&logo=blender&logoColor=ffffff)](https://www.blender.org/)
-
-[![](https://img.shields.io/badge/Google%20Chrome-4C8BF5?style=flat-square&logo=google-chrome&logoColor=ffffff)](https://www.google.com/intl/en/chrome/)
 
 Github Stats|Top Langs
 -|-
